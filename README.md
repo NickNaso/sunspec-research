@@ -1,2 +1,2 @@
 # SunSpec research
-Research on Modbus protocol 
+Research on Suncpec standard.
