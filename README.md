@@ -1,2 +1,2 @@
-# modbus-research
+# SunSpec research
 Research on Modbus protocol 
