@@ -1,6 +1,6 @@
 
 # SunSpec and Modbus
 
-* **[Modbus](/resources/sunspec)**
+* **[Modbus](/resources/modbus)**
 
-* **[SunSpec](/resources/modbus)**
+* **[SunSpec](/resources/sunspec)**
