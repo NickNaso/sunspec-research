@@ -36,4 +36,4 @@ Documentation: https://github.com/goburrow/modbus
 ## Other useful resources:
 
 - **[Official web site](http://www.modbus.org/)**
-- **[Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway.](https://github.com/3cky/mbusd)
+- **[Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway.](https://github.com/3cky/mbusd)**
