@@ -5,7 +5,7 @@ The SunSpec Alliance Interoperability Specification describes the data models an
 * **[SunSpec Information Model Specification](/resources/sunspec/sunspec_information_models_12041.pdf)**
 * **[SunSpec Energy Storage Models](/resources/sunspec/sunspec_alliance_specification_energy_storage_models.pdf)**
 * **[SunSpec reference](/resources/sunspec/sunspec_information_model_reference.xlsx)**
-- **[SunSpec Model Definitions](https://github.com/sunspec/models)**
+* **[SunSpec Model Definitions](https://github.com/sunspec/models)**
 
 # Other useful resources
 
